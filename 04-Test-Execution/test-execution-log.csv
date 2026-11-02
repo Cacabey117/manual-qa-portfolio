@@ -1,0 +1,6 @@
+Test_ID,Test_Name,Execution_Date_UTC,Environment,Expected_Status,Actual_Status,Result,Evidence_Link,Notes
+API-001,GET post by ID,,JSONPlaceholder,200,,Not Run,,
+API-002,GET posts by user,,JSONPlaceholder,200,,Not Run,,
+API-003,POST new post simulated,,JSONPlaceholder,201,,Not Run,,
+API-004,GET missing post,,JSONPlaceholder,404,,Not Run,,
+API-005,GET comments for post,,JSONPlaceholder,200,,Not Run,,
